@@ -1,5 +1,7 @@
 # Feedants — Competition Details Screen (Full-Stack Module)
 
+https://github.com/user-attachments/assets/293f52de-6512-42b6-a00b-afb484fc27e0
+
 A functional, production-minded implementation of the **Competition Details** screen from the
 Feedants mobile app. Competition data, lifecycle state, remaining spots and the viewer's
 registration state are all served by a real backend and stored in MongoDB — nothing is hardcoded
